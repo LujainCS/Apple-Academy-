@@ -1,2 +1,2 @@
-# Apple-Academy-
-Our Application "Me Before  life" 
+# Apple.Academy
+Our Application "Me Before Life" 
